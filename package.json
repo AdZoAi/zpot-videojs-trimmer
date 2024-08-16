@@ -28,12 +28,12 @@
     "url": "https://github.com/Teyuto/videojs-trimmer/issues"
   },
   "homepage": "https://github.com/Teyuto/videojs-trimmer#readme",
-  "main": "src/index.js",
-  "module": "src/index.esm.js",
+  "main": "src/videojs-trimmer.js",
+  "module": "src/videojs-trimmer.js",
   "exports": {
     ".": {
-      "import": "./src/index.esm.js",
-      "require": "./src/index.js"
+      "import": "./src/videojs-trimmer.js",
+      "require": "./src/videojs-trimmer.js"
     }
   }
 }
