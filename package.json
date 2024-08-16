@@ -29,7 +29,7 @@
     },
     "homepage": "https://github.com/Teyuto/videojs-trimmer#readme"
   }
-    "main": "src/index.js",
+  "main": "src/index.js",
   "module": "src/index.esm.js",
   "exports": {
     ".": {
@@ -37,4 +37,3 @@
       "require": "./src/index.js"
     }
   }
-}
