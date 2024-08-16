@@ -6,7 +6,7 @@
   "description": "Video.js Trimmer Plugin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Teyuto/videojs-trimmer.git"
+    "url": "https://github.com/AdZoAi/zpot-videojs-trimmer.git"
   },
   "private": false,
   "publishConfig": {
@@ -25,9 +25,9 @@
     "video"
   ],
   "bugs": {
-    "url": "https://github.com/Teyuto/videojs-trimmer/issues"
+    "url": "https://github.com/AdZoAi/zpot-videojs-trimmer/issues"
   },
-  "homepage": "https://github.com/Teyuto/videojs-trimmer#readme",
+  "homepage": "https://github.com/AdZoAi/zpot-videojs-trimmer#readme",
   "main": "src/videojs-trimmer.js",
   "module": "src/videojs-trimmer.js",
   "exports": {
