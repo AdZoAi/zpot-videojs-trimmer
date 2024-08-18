@@ -14,7 +14,8 @@
     "registry": "https://registry.npmjs.org/"
   },
   "files": [
-    "src"
+    "src",
+    "dist"
   ],
   "keywords": [
     "videojs",
@@ -32,6 +33,7 @@
   "module": "./dist/videojs-trimmer.js",
   "style": "./dist/videojs-trimmer.css",
   "exports": {
-    ".": "./dist/videojs-trimmer.js"
+    ".": "./dist/videojs-trimmer.js",
+    "./dist/videojs-trimmer.js": "./dist/videojs-trimmer.js"
   }
 }
