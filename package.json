@@ -34,9 +34,11 @@
   "exports": {
     ".": {
       "import": "./src/videojs-trimmer.js",
-      "import": "./src/videojs-trimmer.css",
-      "require": "./src/videojs-trimmer.js",
-      "require": "./src/videojs-trimmer.css"
+      "require": "./src/videojs-trimmer.js"
+    },
+    "./dist/videojs-trimmer.css": {
+      "import": "./src/dist/videojs-trimmer.css",
+      "require": "./src/dist/videojs-trimmer.css"
     }
   }
 }
