@@ -15,8 +15,6 @@
   },
   "files": [
     "src",
-    "src/videojs-trimmer.css",
-    "src/videojs-trimmer.js"
   ],
   "keywords": [
     "videojs",
@@ -32,6 +30,7 @@
   "homepage": "https://github.com/AdZoAi/zpot-videojs-trimmer#readme",
   "main": "src/videojs-trimmer.js",
   "module": "src/videojs-trimmer.js",
+  "style": "src/videojs-trimmer.css"
   "exports": {
     ".": {
       "import": "./src/videojs-trimmer.js",
