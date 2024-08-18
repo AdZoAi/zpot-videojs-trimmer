@@ -30,6 +30,7 @@
   "homepage": "https://github.com/AdZoAi/zpot-videojs-trimmer#readme",
   "main": "src/videojs-trimmer.js",
   "module": "src/videojs-trimmer.js",
+  "style": "./dist/video-js.css",
   "exports": {
     ".": {
       "import": "./src/videojs-trimmer.js",
