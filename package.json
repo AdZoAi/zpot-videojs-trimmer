@@ -15,8 +15,8 @@
   },
   "files": [
     "src",
-    "dist/videojs-trimmer.css",
-    "dist/videojs-trimmer.js"
+    "src/videojs-trimmer.css",
+    "src/videojs-trimmer.js"
   ],
   "keywords": [
     "videojs",
