@@ -14,7 +14,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "files": [
-      "src"
+    "src"
   ],
   "keywords": [
     "videojs",
@@ -28,16 +28,10 @@
     "url": "https://github.com/AdZoAi/zpot-videojs-trimmer/issues"
   },
   "homepage": "https://github.com/AdZoAi/zpot-videojs-trimmer#readme",
-  "main": "src/videojs-trimmer.js",
-  "module": "src/videojs-trimmer.js",
-  "style": "src/dist/video-js.css",
-   "exports": {
-    ".": "./src/videojs-trimmer.js"
-    },
-
-    "./dist/videojs-trimmer.css": {
-      "import": "./src/dist/videojs-trimmer.css",
-      "require": "./src/dist/videojs-trimmer.css"
-    }
+  "main": "./dist/videojs-trimmer.js",
+  "module": "./dist/videojs-trimmer.js",
+  "style": "./dist/videojs-trimmer.css",
+  "exports": {
+    ".": "./dist/videojs-trimmer.js"
   }
 }
