@@ -14,8 +14,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "files": [
-      "src",
-      "src/video-js.css"
+      "src"
   ],
   "keywords": [
     "videojs",
