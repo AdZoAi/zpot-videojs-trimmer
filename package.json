@@ -14,7 +14,9 @@
     "registry": "https://registry.npmjs.org/"
   },
   "files": [
-    "src"
+    "src",
+    "dist/videojs-trimmer.css",
+    "dist/videojs-trimmer.js"
   ],
   "keywords": [
     "videojs",
