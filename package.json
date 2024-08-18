@@ -36,7 +36,7 @@
     ".": {
       "import": "./src/videojs-trimmer.js",
       "import": "./src/videojs-trimmer.css",
-      "require": "./src/videojs-trimmer.js"
+      "require": "./src/videojs-trimmer.js",
       "require": "./src/videojs-trimmer.css"
     }
   }
